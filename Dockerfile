@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11:
+FROM adoptopenjdk:11
 # Set the working directory in the container
 WORKDIR /app
 
